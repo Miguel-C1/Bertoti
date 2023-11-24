@@ -65,7 +65,7 @@ Neste trabalho será avaliado diverças formas de Interação Humano-Computador.
 
 ### Lei da Heurística Nº 9: Ajudar os usuários a reconhecer, diagnosticar e recuperar erros
 
-8. **Uol Mail**
+8. **Outlook**
 
    ![Uol Mail](./img/9Outlook.jpg)
    
